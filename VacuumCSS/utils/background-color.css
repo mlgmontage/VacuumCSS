@@ -1,5 +1,9 @@
 /* Background colors */
 
+.bg-black {
+  background-color: black;
+}
+
 .bg-dark {
   background-color: #264653;
 }
