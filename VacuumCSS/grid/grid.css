@@ -19,7 +19,7 @@ div[class*="span"] {
 
 /* Columns */
 .span-1 {
-  width: 900px;
+  width: 90px;
   margin-left: 10px;
 }
 .span-2 {
