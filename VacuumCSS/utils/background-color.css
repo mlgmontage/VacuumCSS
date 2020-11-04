@@ -1,0 +1,17 @@
+/* Background colors */
+
+.bg-dark {
+  background-color: #264653;
+}
+.bg-green {
+  background-color: #2a9d8f;
+}
+.bg-yellow {
+  background-color: #e9c46a;
+}
+.bg-orange {
+  background-color: #f4a261;
+}
+.bg-red {
+  background-color: #e76f51;
+}
