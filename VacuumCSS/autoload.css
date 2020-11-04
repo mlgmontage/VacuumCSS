@@ -1,11 +1,11 @@
 /* Grid */
 @import "./grid/grid.css";
 
+/* Components */
+@import "./components/buttons.css";
+
 /* Utils */
 @import "./utils/border.css";
 @import "./utils/background-color.css"; /* color theme */
 @import "./utils/text-color.css"; /* color theme */
 @import "./utils/text-align.css";
-
-/* Components */
-@import "./components/buttons.css";
