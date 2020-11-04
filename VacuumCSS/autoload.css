@@ -3,6 +3,8 @@
 
 /* Utils */
 @import "./utils/border.css";
+@import "./utils/background-color.css"; /* color theme */
+@import "./utils/text-color.css"; /* color theme */
 
 /* Components */
 @import "./components/buttons.css";

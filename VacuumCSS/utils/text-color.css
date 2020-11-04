@@ -1,7 +1,17 @@
 /* Background colors */
 
-.text-dark { background-color: #264653; }
-.text-green { background-color: #2A9D8F; }
-.text-yellow { background-color: #E9C46A; }
-.text-orange { background-color: #F4A261; }
-.text-red { background-color: #E76F51; }
+.text-dark {
+  color: #264653;
+}
+.text-green {
+  color: #2a9d8f;
+}
+.text-yellow {
+  color: #e9c46a;
+}
+.text-orange {
+  color: #f4a261;
+}
+.text-red {
+  color: #e76f51;
+}
