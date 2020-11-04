@@ -4,6 +4,7 @@
 /* Components */
 @import "./components/buttons.css";
 @import "./components/nav.css";
+@import "./components/badge.css";
 
 /* Utils */
 @import "./utils/border.css";
