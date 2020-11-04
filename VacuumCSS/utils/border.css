@@ -11,3 +11,22 @@
 .border-circle {
   border-radius: 50%;
 }
+
+/* Border colors */
+
+.border-dark {
+  border-color: #264653;
+}
+.border-green {
+  border-color: #2a9d8f;
+}
+
+.border-yellow {
+  border-color: #e9c46a;
+}
+.border-orange {
+  border-color: #f4a261;
+}
+.border-red {
+  border-color: #e76f51;
+}
