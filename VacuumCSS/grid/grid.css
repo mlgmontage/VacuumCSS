@@ -1,0 +1,105 @@
+/* 1200 wide 12 column grid */
+
+.span-* {
+  box-sizing: border-box;
+}
+
+/* Columns */
+.span-1 {
+  width: 100px;
+  padding-right: 10px;
+}
+.span-2 {
+  width: 200px;
+  padding-right: 10px;
+}
+.span-3 {
+  width: 300px;
+  padding-right: 10px;
+}
+.span-4 {
+  width: 400px;
+  padding-right: 10px;
+}
+.span-5 {
+  width: 500px;
+  padding-right: 10px;
+}
+.span-6 {
+  width: 600px;
+  padding-right: 10px;
+}
+.span-7 {
+  width: 700px;
+  padding-right: 10px;
+}
+.span-8 {
+  width: 800px;
+  padding-right: 10px;
+}
+.span-9 {
+  width: 900px;
+  padding-right: 10px;
+}
+.span-10 {
+  width: 1000px;
+  padding-right: 10px;
+}
+.span-11 {
+  width: 1100px;
+  padding-right: 10px;
+}
+.span-12 {
+  width: 1200px;
+  padding-right: 10px;
+}
+
+/* Offsets */
+.offset-1 {
+  margin-left: 100px;
+  padding-right: 10px;
+}
+.offset-2 {
+  margin-left: 200px;
+  padding-right: 10px;
+}
+.offset-3 {
+  margin-left: 300px;
+  padding-right: 10px;
+}
+.offset-4 {
+  margin-left: 400px;
+  padding-right: 10px;
+}
+.offset-5 {
+  margin-left: 500px;
+  padding-right: 10px;
+}
+.offset-6 {
+  margin-left: 600px;
+  padding-right: 10px;
+}
+.offset-7 {
+  margin-left: 700px;
+  padding-right: 10px;
+}
+.offset-8 {
+  margin-left: 800px;
+  padding-right: 10px;
+}
+.offset-9 {
+  margin-left: 900px;
+  padding-right: 10px;
+}
+.offset-10 {
+  margin-left: 1000px;
+  padding-right: 10px;
+}
+.offset-11 {
+  margin-left: 1100px;
+  padding-right: 10px;
+}
+.offset-12 {
+  margin-left: 1200px;
+  padding-right: 10px;
+}
