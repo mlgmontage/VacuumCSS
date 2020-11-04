@@ -3,3 +3,6 @@
 
 /* Utils */
 @import "./utils/border.css";
+
+/* Components */
+@import "./components/buttons.css";
